@@ -1,0 +1,31 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large machine learning model files
+*.pth
+*.pt
+*.h5
+
+# Local uploads and raw data
+uploads/
+data/raw/
+
+# Editor settings
+.vscode/
+.idea/
